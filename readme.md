@@ -22,3 +22,7 @@ Demonstrates a basic difference imaging technique that will save a photo when th
 ###RemoteUpload
 
 Extends the ManualTrigger sketch, using the `curl` command line utility to upload an image to a remote server. This is useful for installations that require viewing/exhibition/storage at a very different place than the capture location. The `upload.sh` script should be modified to include your ftp information (username, password, server).
+
+###WhereYouWere
+
+"Where you were, where you are going" is a contributed example from [Mark](https://twitter.com/#!/ProxyMark), [Leigha](https://twitter.com/#!/spare_ohs) and Adam, who all attended the Studio-X camera hacking workshop. "It mostly captures the space you just evacuated".
