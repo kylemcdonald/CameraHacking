@@ -19,6 +19,6 @@ Acts like an [intervalometer](https://en.wikipedia.org/wiki/Intervalometer), use
 
 Demonstrates a basic difference imaging technique that will save a photo when the difference exceeds a threshold. You can set off the trigger by making a large motion, or by quickly changing the light in the image.
 
-###Remote Upload
+###RemoteUpload
 
 Extends the ManualTrigger sketch, using the `curl` command line utility to upload an image to a remote server. This is useful for installations that require viewing/exhibition/storage at a very different place than the capture location. The `upload.sh` script should be modified to include your ftp information (username, password, server).
